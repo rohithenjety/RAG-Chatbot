@@ -1,0 +1,17 @@
+{
+    "guidelines": [
+      "person",
+      "color",
+      "racial",
+      "secret keys",
+      "storage details",
+      "nudity",
+      "api keys",
+      "database credentials",
+      "locks",
+      "passwords",
+      "leaks"
+
+    ]
+  }
+  

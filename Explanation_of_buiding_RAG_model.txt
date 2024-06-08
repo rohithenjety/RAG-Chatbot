@@ -1,0 +1,9 @@
+In These RAG-powered chatbot  i used the tools such as nltk, open api-key, json file and gradio interface for building the interface 
+The file which is used is instructions.json which is used as a guidelines so the ai won't give the answers to th user prompt when ever the instructions.json words are trigged
+Then the i used the open-ai api-key to use the custom ai based on my instructions.
+By using the Importing Gradio , i used the gradio tool for the interface for my code .
+Then the code it will accepts the only pdf file to enter when ever the user enters the pdf file which contains the content then it will automatically makes a dataset like the questions_dataset.py dataset.
+By these dataset when you go on to prompt it will gives the answers from the pdf by using the cosine similarity when the user prompts upto certain word it will go on the nearest one and make the realtion  to it and gives the answer to it.
+When ever the ai giving the answer here another this is going on which is this will calculates the precision , recall and f1-score as the perforamnce evaluation metrics , based on this the model is going to change the performance by fine-turning
+By this the functionality of the model will be happen the frontend will visible as RAG_Webapge.png  like this.
+This is the overall working of the chatbot. 
